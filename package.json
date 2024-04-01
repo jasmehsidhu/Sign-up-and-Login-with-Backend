@@ -1,0 +1,24 @@
+{
+  "name": "jasmeh",
+  "version": "1.0.0",
+  "description": "Learning js",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasmeh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "detect-phonenumber": "^1.0.5",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "inquirer": "^9.2.16",
+    "morgan": "^1.10.0",
+    "pincode": "^1.0.0",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^3.0.0"
+  }
+}
